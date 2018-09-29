@@ -1,6 +1,6 @@
-<i> use : npm install</i> <br/>
+<i> <b>use : npm install</b> </i> <br/>
 
-start: npm start
+<i> <b>start: npm start</b> </i>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
