@@ -1,4 +1,4 @@
-use: npm install <br/>
+<i> use : npm install</i> <br/>
 
 start: npm start
 
